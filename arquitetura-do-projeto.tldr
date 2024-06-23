@@ -43,9 +43,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 973.2162931693725,
-			"y": 50.76307290454555,
-			"lastActivityTimestamp": 1719150339100,
+			"x": 800.8108790970803,
+			"y": 317.10216293892904,
+			"lastActivityTimestamp": 1719151680910,
 			"meta": {}
 		},
 		{
@@ -67,7 +67,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "ew-resize",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -77,7 +77,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1090,
+				"w": 868.3333129882812,
 				"h": 485.83331298828125
 			},
 			"insets": [
@@ -95,9 +95,9 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.2000000476837158,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": false,
+			"isHoveringCanvas": true,
 			"openMenus": [],
-			"isChangingStyle": true,
+			"isChangingStyle": false,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
@@ -109,9 +109,9 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:I0gm-FcjVg5UsYj42XZ2l"
+				"shape:v_oQu8_qcM8wGyDqC7LNY"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:v_oQu8_qcM8wGyDqC7LNY",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -121,9 +121,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 269.8360406812443,
-			"y": 45.55710440535255,
-			"z": 0.8704421346455993,
+			"x": 633.4580164350491,
+			"y": 307.8971478417992,
+			"z": 0.43866713413117336,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -575,6 +575,36 @@
 			},
 			"parentId": "page:page",
 			"index": "aC",
+			"typeName": "shape"
+		},
+		{
+			"x": 16.237305065805003,
+			"y": -9.645197633130124,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 0.25,
+			"meta": {},
+			"id": "shape:v_oQu8_qcM8wGyDqC7LNY",
+			"type": "geo",
+			"props": {
+				"w": 784.5735740312753,
+				"h": 562.309442765707,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "dotted",
+				"size": "m",
+				"font": "draw",
+				"text": "",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aD",
 			"typeName": "shape"
 		}
 	]
